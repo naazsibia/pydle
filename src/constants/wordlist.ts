@@ -4,5 +4,14 @@ export const WORDS = [
   'lists',
   'while',
   'debug',
+  'index',
   'float',
+  'print',
+  'tuple',
+  'value',
+  'slice',
+  'alias',
+  'ascii',
+  'array',
+  'write'
 ]
