@@ -13,5 +13,11 @@ export const WORDS = [
   'alias',
   'ascii',
   'array',
-  'write'
-]
+  'write',
+  'class',
+  'items',
+  'group',
+  'param',
+  'block',
+  'power',
+  'yield']
